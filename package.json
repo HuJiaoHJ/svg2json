@@ -1,0 +1,25 @@
+{
+  "name": "svg2json",
+  "version": "1.0.0",
+  "description": "svg to json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuJiaoHJ/svg2json.git"
+  },
+  "keywords": [
+    "svg"
+  ],
+  "author": "hujiao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuJiaoHJ/svg2json/issues"
+  },
+  "homepage": "https://github.com/HuJiaoHJ/svg2json#readme",
+  "bin": {
+    "svg2json": "./bin/svg2json.js"
+  }
+}
