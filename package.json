@@ -21,5 +21,8 @@
   "homepage": "https://github.com/HuJiaoHJ/svg2json#readme",
   "bin": {
     "svg2json": "./bin/svg2json.js"
+  },
+  "dependencies": {
+    "yargs": "^12.0.1"
   }
 }
