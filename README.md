@@ -1,11 +1,11 @@
-### svg2json
+### react-native-svg2json
 
 将svg文件转换成json文件，用于RN项目使用SVG
 
 ##### 安装
 
 ```
-npm install svg2json
+npm install react-native-svg2json
 ```
 
 ##### 使用

@@ -1,6 +1,6 @@
 {
-  "name": "svg2json",
-  "version": "1.0.0",
+  "name": "react-native-svg2json",
+  "version": "1.0.1",
   "description": "svg to json",
   "main": "index.js",
   "scripts": {
